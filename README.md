@@ -52,7 +52,7 @@ Para ejecutar el proyecto, necesitarás Python 3.x y las siguientes bibliotecas:
 - matplotlib
 - folium
 
-Puedes instalar los paquetes necesarios usando:
+Puedes instalar los paquetes necesarios usando lo siguiente:
 
 ```bash
 pip install -r requirements.txt
